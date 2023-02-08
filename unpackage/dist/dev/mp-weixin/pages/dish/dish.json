@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "actions": "/pages/dish/components/actions/actions",
+    "cart-bar": "/pages/dish/components/cartbar/cartbar",
+    "product-modal": "/pages/dish/components/product-modal/product-modal",
+    "cart-popup": "/pages/dish/components/cart-popup/cart-popup",
+    "search": "/pages/dish/components/search/search"
+  }
+}
